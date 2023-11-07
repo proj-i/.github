@@ -1,4 +1,4 @@
-<img src="src/proji_logo.png" width=100 height=100>
+<img src="proji_logo.png" width=100 height=100>
 
 # HANIL Project_i
 Project_i; Bringing iPads to Hanil High School
