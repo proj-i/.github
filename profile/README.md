@@ -8,6 +8,9 @@ Project_i; Bringing iPads to Hanil High School
 - 🧑🏻‍💻 PAi @joony06 : Web, Project Presentation
 - 🧑🏻‍💻 Jonghyun Lee @vii3nne : iOS/iPadOS Profile Develop, Project Demonstration
 
+### Hanil High School 37th Student Self Government 
+- 🧑🏻‍💻 Jonghyun Lee @vii3nne : iOS/iPadOS Profile Develop, Project Presentation & Demonstration, Web Development
+
 ## 💻 Key Subjects
 ### 🚫 Restricting iPad
 - Whitelisted App Store
